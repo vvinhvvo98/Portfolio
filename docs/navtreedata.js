@@ -27,10 +27,8 @@ var NAVTREE =
   [ "PORTFOLIO", "index.html", [
     [ "OVERVIEW", "index.html#secs_1", null ],
     [ "MECHATRONIC PROJECTS", "index.html#secs_2", null ],
-    [ "DESIGN PROJECT", "index.html#secs_3", null ],
-    [ "MANUFACTURING PROJECTS", "index.html#secs_6", null ],
-    [ "CAL POLY SENIOR PROJECT", "index.html#secs_5", null ],
-    [ "YOUTUBE REFERENCE", "index.html#sec_yout", null ],
+    [ "INTERNSHIP PROJECTS", "index.html#secs_3", null ],
+    [ "CAL POLY SENIOR PROJECT", "index.html#secs_6", null ],
     [ "CONTACT INFORMATION", "index.html#sec_info", null ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ]

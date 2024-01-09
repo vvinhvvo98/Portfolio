@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['mainpage_2epy_0',['mainpage.py',['../mainpage_8py.html',1,'']]],
-  ['manufacturing_20projects_1',['MANUFACTURING PROJECTS',['../index.html#secs_6',1,'']]],
-  ['mechatronic_20projects_2',['MECHATRONIC PROJECTS',['../index.html#secs_2',1,'']]]
+  ['overview_0',['OVERVIEW',['../index.html#secs_1',1,'']]]
 ];

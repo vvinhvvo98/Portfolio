@@ -7,21 +7,23 @@
                         aaaaaaaaaaa
 
     @section secs_2     MECHATRONIC PROJECTS
-                        aaaaaaaaaaa
+                        <b>ROMI TWO-WHEELED ROBOT</b>
+                        
+                        <b>CARD DEALER ROBOT</b>
+                        
+                        <b>AUTOMATED PILL DISPENSER</b>
                          
-    @section secs_3     DESIGN PROJECT
-                        aaaaaaaaaaa
+    @section secs_3     INTERNSHIP PROJECTS
+                        <b>HORN HOUSING PRESS FIXTURE</b>
                         
-    @section secs_6     MANUFACTURING PROJECTS
-                        aaaaaaaaaaa
+                        <b>DOOR ASSEMBLY FIXTURE</b>
+                        
+                        <b>WALL MOUNTING BRACKET</b>
+                        
+                        <b>BUS MOUNTING BRACKET</b>
     
-    @section secs_5     CAL POLY SENIOR PROJECT
-                        aaaaaaaaaaa
-                        
-    @section sec_yout   YOUTUBE REFERENCE
-                        All videos including all the fail and successful run can be reference and accessible in the following URL links:
-                       
-                        https://www.youtube.com/playlist?list=PLlT9z-PWNXdPdNyG8XZUSzmCKlZkHHBCw
+    @section secs_6     CAL POLY SENIOR PROJECT
+                        <b>PATH OF LIGHT & SOUND</b>
                         
     @section sec_info   CONTACT INFORMATION
     <pre>

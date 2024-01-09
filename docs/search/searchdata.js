@@ -1,6 +1,6 @@
 var indexSectionsWithContent =
 {
-  0: "cdimoprsy",
+  0: "cimops",
   1: "m",
   2: "p"
 };

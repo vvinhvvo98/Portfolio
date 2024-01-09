@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['design_20project_0',['DESIGN PROJECT',['../index.html#secs_3',1,'']]]
+  ['information_0',['CONTACT INFORMATION',['../index.html#sec_info',1,'']]],
+  ['internship_20projects_1',['INTERNSHIP PROJECTS',['../index.html#secs_3',1,'']]]
 ];
