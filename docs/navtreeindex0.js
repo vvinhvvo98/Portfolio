@@ -6,7 +6,7 @@ var NAVTREEINDEX0 =
 "index.html#secs_1":[0],
 "index.html#secs_2":[1],
 "index.html#secs_3":[2],
-"index.html#secs_6":[3],
+"index.html#secs_4":[3],
 "mainpage_8py.html":[5,0,0],
 "pages.html":[]
 };

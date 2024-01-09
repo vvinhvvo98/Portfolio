@@ -2,85 +2,64 @@
     @brief               PORTFOLIO
 
     @mainpage
-    
+    <pre> <p>
     @section secs_1     OVERVIEW
                         aaaaaaaaaaa
 
     @section secs_2     MECHATRONIC PROJECTS
                         <b>ROMI TWO-WHEELED ROBOT</b>
                         
-                        Objective:
-                        
-                        Technical Detail:
-                            
-                        Result:
-                            
                         Website: 
                         https://vvinhvvo98.github.io/ROMI-Two-Wheels-Robot/
                         
-                        @image html romi.png
-                       
+                        @image html rommi.png
+                        
+                        
+                        
                         <b>CARD DEALER ROBOT</b>
                         
-                        Objective:
-                        
-                        Technical Detail:
-                            
-                        Result:
-                            
                         Website: 
                         https://vvinhvvo98.github.io/Card-Dealer-Robot/
                         
-                        @image html carddealer.png
-                         
-    @section secs_3     INTERNSHIP PROJECTS
-                        <b>HORN HOUSING PRESS FIXTURE</b>
-                                               
-                        Objective:
+                        @image html card.png
                         
-                        Technical Detail:
+                        
+                        
+    @section secs_3     CAL POLY SENIOR PROJECT
+                        <b>PATH OF LIGHT & SOUND</b>
+                        
+                        Website: 
+                        https://vvinhvvo98.github.io/Card-Dealer-Robot/
+                        
+                        @image html tile.png
                             
-                        Result:
                         
-                        @image html romi.png
+                        
+                        
+                        
+    @section secs_4     INTERNSHIP PROJECTS
+                        <b>HORN HOUSING PRESS FIXTURE</b>
+                        
+                        @image html horn.png
+                        
+                        
                         
                         <b>DOOR ASSEMBLY FIXTURE</b>
                         
-                        Objective:
+                        @image html door.png
                         
-                        Technical Detail:
-                            
-                        Result:
                         
-                        @image html romi.png
                         
                         <b>WALL MOUNTING BRACKET</b>
                                   
-                        Objective:
+                        @image html wall.png
                         
-                        Technical Detail:
-                            
-                        Result:
                         
-                        @image html romi.png
                         
                         <b>BUS MOUNTING BRACKET</b>
-                        
-                        Objective:
-                        
-                        Technical Detail:
                             
-                        Result:
-                            
-                        @image html romi.png
-                        
-    @section secs_6     CAL POLY SENIOR PROJECT
-                        <b>PATH OF LIGHT & SOUND</b>
-                        
-                        Objective:
-                            
-                        Website: 
-                        https://vvinhvvo98.github.io/Card-Dealer-Robot/
+                        @image html bus.png
+     </pre> </p>                  
                         
                         
     @section sec_info   CONTACT INFORMATION
