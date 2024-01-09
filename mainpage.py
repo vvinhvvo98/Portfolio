@@ -16,7 +16,7 @@
                         Result:
                             
                         Website: 
-                        https://vvinhvvo98.github.io/Card-Dealer-Robot/
+                        https://vvinhvvo98.github.io/ROMI-Two-Wheels-Robot/
                         
                         @image html romi.png
                        
