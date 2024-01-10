@@ -24,10 +24,9 @@
                         
     @section secs_3 CAL POLY SENIOR PROJECT
     <b>PATH OF LIGHT & SOUND</b>
-    Website: https://vvinhvvo98.github.io/Path-of-Light-and-Sound/
+    Poster: @htmlonly <a href="file:///C:/Users/vvinh/Desktop/RESUME/TEMPLATE/PORTFOLIO/Portfolio/images/W15%20Poster%20(1).pdf">Project Poster</a> @endhtmlonly 
     
-    @image html tile.png
-                            
+    @image html tile.png                       
     
     @section secs_4 INTERNSHIP PROJECTS
     <b>HORN HOUSING PRESS FIXTURE</b>
