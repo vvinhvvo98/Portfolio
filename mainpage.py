@@ -24,7 +24,7 @@
                         
     @section secs_3 CAL POLY SENIOR PROJECT
     <b>PATH OF LIGHT & SOUND</b>
-    Poster: @htmlonly <a href="https://github.com/vvinhvvo98/Portfolio/blob/main/images/W15%20Poster%20(1).pdf">Project Poster</a> @endhtmlonly 
+    Poster: @htmlonly <a href="https://github.com/vvinhvvo98/Portfolio/blob/main/images/W15%20Poster%20.pdf">Project Poster</a> @endhtmlonly 
     Demonstration: https://www.youtube.com/playlist?list=PLlT9z-PWNXdOEd7qTQGlaQwPQV6c5Uug_
     
     @image html tile.png                       
