@@ -10,16 +10,35 @@
     Additionally, my YouTube channel features videos showcasing these projects in action.
 
     @section secs_2 MECHATRONIC PROJECTS
+    <b>BASKETBALL LAUNCHER</b>
+    Website: 
+    
+    @image html launcher.png
+    
+    <b>SNAKE-LIKE ROBOTIC ARM SYSTEM</b>
+    Website: 
+    
+    @image html snake.png
+    
     <b>ROMI TWO-WHEELED ROBOT</b>
     Website: https://vvinhvvo98.github.io/ROMI-Two-Wheels-Robot/
     
     @image html rommi.png
     
+    <b>CYCLOIDAL GEARBOX</b>
+    Website: 
+    
+    @image html gearbox.png
     
     <b>CARD DEALER ROBOT</b>
     Website: https://vvinhvvo98.github.io/Card-Dealer-Robot/
     
     @image html card.png
+
+    <b>CYCLOIDAL GEARBOX</b>
+    Website: 
+    
+    @image html rommi.png
                         
                         
     @section secs_3 CAL POLY SENIOR PROJECT
@@ -31,7 +50,7 @@
     
     @section secs_4 INTERNSHIP PROJECTS
     <b>HORN HOUSING PRESS FIXTURE</b>
-    
+        
     @image html horn.png
     
     
