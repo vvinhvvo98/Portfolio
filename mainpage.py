@@ -16,7 +16,7 @@
     @image html launcher.png
     
     <b>SNAKE-LIKE ROBOTIC ARM SYSTEM</b>
-    Website: 
+    Demonstration: https://www.youtube.com/playlist?list=PLlT9z-PWNXdOYJSFjVa3emhBHUZVUPtFF
     
     @image html snake.png
     
@@ -26,7 +26,7 @@
     @image html rommi.png
     
     <b>CYCLOIDAL GEARBOX</b>
-    Website: 
+    Demonstration: https://www.youtube.com/playlist?list=PLlT9z-PWNXdMvf3wya2C2y9n_Qta7UkEB
     
     @image html gearbox.png
     
@@ -34,11 +34,6 @@
     Website: https://vvinhvvo98.github.io/Card-Dealer-Robot/
     
     @image html card.png
-
-    <b>CYCLOIDAL GEARBOX</b>
-    Website: 
-    
-    @image html rommi.png
                         
                         
     @section secs_3 CAL POLY SENIOR PROJECT
