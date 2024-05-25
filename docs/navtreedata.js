@@ -25,11 +25,11 @@
 var NAVTREE =
 [
   [ "PORTFOLIO", "index.html", [
-    [ "OVERVIEW", "index.html#secs_1", null ],
+    [ "BACKGROUND", "index.html#secs_1", null ],
+    [ "PERSONAL INFORMATION", "index.html#sec_info", null ],
     [ "MECHATRONIC PROJECTS", "index.html#secs_2", null ],
     [ "CAL POLY SENIOR PROJECT", "index.html#secs_3", null ],
     [ "INTERNSHIP PROJECTS", "index.html#secs_4", null ],
-    [ "CONTACT INFORMATION", "index.html#sec_info", null ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ]
     ] ]

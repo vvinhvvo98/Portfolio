@@ -1,102 +1,229 @@
 /**
  * @file mainpage.c
- * @brief PORTFOLIO
- * 
+ * @brief PORTFOLIO MAINPAGE
+ */
+
+/**
  * @mainpage
- * <pre> <p>
- * @section secs_1 OVERVIEW
- * This website showcases the culmination of my efforts as a Mechanical Engineering student at Cal Poly.
- * It encompasses a diverse range of projects, including personal mechatronics projects, Cal Poly senior projects, and those undertaken during my internships.
- * While the website provides comprehensive details about each project, I encourage you to explore any linked external resources for a deeper understanding.
- * Additionally, my YouTube channel features videos showcasing these projects in action.
+ *
+ *
+ * @section secs_1 BACKGROUND
+ * Thank you for visiting my portfolio webpage. My name is Vinh Vo, and I hold MS in Mechanical Engineering with a concentration in Mechatronics.
+ *
+ * This website showcases the culmination of my academic and professional efforts as a Mechanical Engineering student at Cal Poly. It features a diverse range of projects, including personal mechatronics projects, senior projects at Cal Poly, and those undertaken during my internships.
+ *
+ * While the website provides comprehensive details about each project, I encourage you to explore any linked external resources for a deeper understanding. Additionally, my YouTube channel features videos that bring these projects to life.
+ * 
+ * @section sec_info PERSONAL INFORMATION
+ * <div style="display: flex; align-items: flex-start;">
+ *   <div>
+ *     <img src="headshot.png" alt="Profile Picture" style="width: 300px; border: 10px solid black; border-radius: 50px;">
+ *   </div>
+ *   <div style="margin-left: 20px;">
+ *     <pre>
+ *     <b>Name:</b>          VINH VO
+ * 
+ *     <b>Email:</b>         vinhvo.career@gmail.com
+ * 
+ *     <b>LinkedIn:</b>      https://www.linkedin.com/in/vinhvo98/
+ * 
+ *     <b>Youtube:</b>       https://www.youtube.com/channel/UCh_4F4CJVqvAhHmCMTvIb-w
+ * 
+ *     <b>Github:</b>        https://github.com/vvinhvvo98
+ * 
+ *     <b>Phone:</b>         +1(714)-988-5363
+ * 
+ *     <b>Major:</b>         Mechanical Engineer at Cal Poly San Luis Obispo
+ * 
+ *     <b>Date:</b>          May 25, 2024
+ *     </pre>
+ *   </div>
+ * </div>
+ * 
  * 
  * @section secs_2 MECHATRONIC PROJECTS
- * <b>BASKETBALL LAUNCHER</b>
- * Website:
  * 
- * <div class="image-frame">
- * <img src="launcher.png" width="1200" height="600" style="border: 10px solid black; border-radius: 50px;">
+ * <div class="image-frame" style="text-align: center;">
+ * <b style="font-size: 20px;">BASKETBALL LAUNCHER</b>
+ * 
+ * <img src="launcher.jpeg" width="600" height="700" style="border: 10px solid black; border-radius: 50px;">
+ * </a>
  * </div>
  * 
- * <b>SNAKE-LIKE ROBOTIC ARM SYSTEM</b>
- * Demonstration: https://www.youtube.com/playlist?list=PLlT9z-PWNXdOYJSFjVa3emhBHUZVUPtFF
- * 
- * <div class="image-frame">
- * <img src="snake.png" width="1200" height="600" style="border: 10px solid black; border-radius: 50px;">
+ * <div style="display: flex; justify-content: center; gap: 20px;">
+ *   <a href="">
+ *     <img src="objective.png" alt="First Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
+ *   </a>
+ *   <a href="https://vvinhvvo98.github.io/Basketball-Launcher/index.html">
+ *     <img src="link.png" alt="Second Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
+ *   </a>
+ *   <a href="https://www.youtube.com/playlist?list=PLlT9z-PWNXdP43BUYpBcqznBU4_-Bkpg8">
+ *     <img src="youtube.png" alt="Third Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
+ *   </a>
  * </div>
  * 
- * <b>ROMI TWO-WHEELED ROBOT</b>
- * Website: https://vvinhvvo98.github.io/ROMI-Two-Wheels-Robot/
+ * <br> <br>
+ *  
+ * <div class="image-frame" style="text-align: center;">
+ * <b style="font-size: 20px;">BASKETBALL LAUNCHER</b>
  * 
- * <div class="image-frame">
- * <img src="rommi.png" width="1200" height="600" style="border: 10px solid black; border-radius: 50px;">
+ * <img src="romi.png" width="600" height="700" style="border: 10px solid black; border-radius: 50px;">
+ * </a>
  * </div>
  * 
- * <b>CYCLOIDAL GEARBOX</b>
- * Demonstration: https://www.youtube.com/playlist?list=PLlT9z-PWNXdMvf3wya2C2y9n_Qta7UkEB
- * 
- * <div class="image-frame">
- * <img src="gearbox.png" width="1200" height="600" style="border: 10px solid black; border-radius: 50px;">
+ * <div style="display: flex; justify-content: center; gap: 20px;">
+ *   <a href="">
+ *     <img src="objective.png" alt="First Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
+ *   </a>
+ *   <a href="https://vvinhvvo98.github.io/ROMI-Two-Wheels-Robot/index.html">
+ *     <img src="link.png" alt="Second Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
+ *   </a>
+ *   <a href="https://www.youtube.com/playlist?list=PLlT9z-PWNXdNjwoyCqrZTsPmyriopg6Mu">
+ *     <img src="youtube.png" alt="Third Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
+ *   </a>
  * </div>
  * 
- * <b>CARD DEALER ROBOT</b>
- * Website: https://vvinhvvo98.github.io/Card-Dealer-Robot/
+ * <br> <br>
  * 
- * <div class="image-frame">
- * <img src="card.png" width="1200" height="600" style="border: 10px solid black; border-radius: 50px;">
+ * <div class="image-frame" style="text-align: center;">
+ * <b style="font-size: 20px;">CARD DEALER ROBOT</b>
+ * 
+ * <img src="card.png" width="600" height="700" style="border: 10px solid black; border-radius: 50px;">
+ * </a>
  * </div>
+ * 
+ * <div style="display: flex; justify-content: center; gap: 20px;">
+ *   <a href="">
+ *     <img src="objective.png" alt="First Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
+ *   </a>
+ *   <a href="https://vvinhvvo98.github.io/Card-Dealer-Robot/index.html">
+ *     <img src="link.png" alt="Second Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
+ *   </a>
+ *   <a href="https://www.youtube.com/playlist?list=PLlT9z-PWNXdPdNyG8XZUSzmCKlZkHHBCw">
+ *     <img src="youtube.png" alt="Third Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
+ *   </a>
+ * </div>
+ * 
+ * <br> <br>
+ * 
+ * <div class="image-frame" style="text-align: center;">
+ * <b style="font-size: 20px;">SNAKE-LIKE ROBOTIC ARM</b>
+ * 
+ * <img src="snake.png" width="600" height="700" style="border: 10px solid black; border-radius: 50px;">
+ * </a>
+ * </div>
+ *
+ * <div style="display: flex; justify-content: center; gap: 20px;">
+ *   <a href="">
+ *     <img src="objective.png" alt="First Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
+ *   </a>
+ *   <a href="https://www.youtube.com/playlist?list=PLlT9z-PWNXdOYJSFjVa3emhBHUZVUPtFF">
+ *     <img src="youtube.png" alt="Third Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
+ *   </a>
+ * </div>
+ * 
+ * <br> <br>
+ * 
+ * <div class="image-frame" style="text-align: center;">
+ * <b style="font-size: 20px;">CYCLOIDAL GEARBOX</b>
+ * 
+ * <img src="gearbox.png" width="600" height="700" style="border: 10px solid black; border-radius: 50px;">
+ * </a>
+ * </div>
+ * 
+ * <div style="display: flex; justify-content: center; gap: 20px;">
+ *   <a href="">
+ *     <img src="objective.png" alt="First Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
+ *   </a>
+ *   <a href="https://www.youtube.com/playlist?list=PLlT9z-PWNXdMvf3wya2C2y9n_Qta7UkEB">
+ *     <img src="youtube.png" alt="Third Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
+ *   </a>
+ * </div>
+ * 
+ * <br> <br>
  * 
  * @section secs_3 CAL POLY SENIOR PROJECT
- * <b>PATH OF LIGHT & SOUND</b>
- * Poster: @htmlonly <a href="https://github.com/vvinhvvo98/Portfolio/blob/main/images/W15.pdf">Project Poster</a> @endhtmlonly
- * Demonstration: https://www.youtube.com/playlist?list=PLlT9z-PWNXdOEd7qTQGlaQwPQV6c5Uug_
  * 
- * <div class="image-frame">
- * <img src="tile.png" width="1200" height="600" style="border: 10px solid black; border-radius: 50px;">
+ * <div class="image-frame" style="text-align: center;">
+ * <b style="font-size: 20px;">PATH OF LIGHT & SOUND</b>
+ * 
+ * <img src="tile.png" width="600" height="700" style="border: 10px solid black; border-radius: 50px;">
+ * </a>
  * </div>
+ * 
+ * <div style="display: flex; justify-content: center; gap: 20px;">
+ *   <a href="">
+ *     <img src="objective.png" alt="First Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
+ *   </a>
+ *  <a href="W15.pdf">
+ *     <img src="pdf.png" alt="First Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
+ *   </a>
+ *   <a href="https://www.youtube.com/playlist?list=PLlT9z-PWNXdOEd7qTQGlaQwPQV6c5Uug_">
+ *     <img src="youtube.png" alt="Third Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
+ *   </a>
+ * </div>
+ * 
+ * <br> <br>
  * 
  * @section secs_4 INTERNSHIP PROJECTS
- * <b>HORN HOUSING PRESS FIXTURE</b>
  * 
- * <div class="image-frame">
- * <img src="horn.png" width="1200" height="600" style="border: 10px solid black; border-radius: 50px;">
+ * <div class="image-frame" style="text-align: center;">
+ * <b style="font-size: 20px;">HORN HOUSING PRESS FIXTURE</b>
+ * 
+ * <img src="horn.png" width="600" height="700" style="border: 10px solid black; border-radius: 50px;">
+ * </a>
  * </div>
  * 
- * <b>DOOR ASSEMBLY FIXTURE</b>
- * 
- * <div class="image-frame">
- * <img src="door.png" width="1200" height="600" style="border: 10px solid black; border-radius: 50px;">
+ * <div style="display: flex; justify-content: center; gap: 20px;">
+ *   <a href="">
+ *     <img src="objective.png" alt="First Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
+ *   </a>
  * </div>
  * 
- * <b>WALL MOUNTING BRACKET</b>
+ * <br> <br>
  * 
- * <div class="image-frame">
- * <img src="wall.png" width="1200" height="600" style="border: 10px solid black; border-radius: 50px;">
+ * <div class="image-frame" style="text-align: center;">
+ * <b style="font-size: 20px;">DOOR ASSEMBLY FIXTURE<</b>
+ * 
+ * <img src="door.png" width="600" height="700" style="border: 10px solid black; border-radius: 50px;">
+ * </a>
  * </div>
  * 
- * <b>BUS MOUNTING BRACKET</b>
- * 
- * <div class="image-frame">
- * <img src="bus.png" width="1200" height="600" style="border: 10px solid black; border-radius: 50px;">
+ * <div style="display: flex; justify-content: center; gap: 20px;">
+ *   <a href="">
+ *     <img src="objective.png" alt="First Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
+ *   </a>
  * </div>
- * </pre> </p>
  * 
- * @section sec_info CONTACT INFORMATION
- * <pre>
+ * <br> <br>
  * 
- * <b>Name:</b> Vinh Vo
+ * <div class="image-frame" style="text-align: center;">
+ * <b style="font-size: 20px;">WALL MOUNTING BRACKET<</b>
  * 
- * <b>Email:</b> vinhvo.career@gmail.com
+ * <img src="wall.png" width="600" height="700" style="border: 10px solid black; border-radius: 50px;">
+ * </a>
+ * </div>
  * 
- * <b>LinkedIn:</b> https://www.linkedin.com/in/vinhvo98/
+ * <div style="display: flex; justify-content: center; gap: 20px;">
+ *   <a href="">
+ *     <img src="objective.png" alt="First Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
+ *   </a>
+ * </div>
  * 
- * <b>Youtube:</b> https://www.youtube.com/channel/UCh_4F4CJVqvAhHmCMTvIb-w
+ * <br> <br>
  * 
- * <b>Phone Number:</b> +1(714)-988-5363
+ * <div class="image-frame" style="text-align: center;">
+ * <b style="font-size: 20px;">BUS MOUNTING BRACKET<</b>
  * 
- * <b>Major:</b> Mechanical Engineer at Cal Poly San Luis Obispo
+ * <img src="bus.png" width="600" height="700" style="border: 10px solid black; border-radius: 50px;">
+ * </a>
+ * </div>
  * 
- * <b>Date:</b> Dec 15, 2023
+ * <div style="display: flex; justify-content: center; gap: 20px;">
+ *   <a href="">
+ *     <img src="objective.png" alt="First Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
+ *   </a>
+ * </div>
  * 
- * </pre>
+ * <br> <br>
  */

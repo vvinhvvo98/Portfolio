@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['mainpage_2ec_0',['mainpage.c',['../mainpage_8c.html',1,'']]],
-  ['mechatronic_20projects_1',['MECHATRONIC PROJECTS',['../index.html#secs_2',1,'']]]
+  ['information_0',['PERSONAL INFORMATION',['../index.html#sec_info',1,'']]],
+  ['internship_20projects_1',['INTERNSHIP PROJECTS',['../index.html#secs_4',1,'']]]
 ];
