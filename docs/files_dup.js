@@ -1,4 +1,4 @@
 var files_dup =
 [
-    [ "mainpage.py", "mainpage_8py.html", null ]
+    [ "mainpage.c", "mainpage_8c.html", null ]
 ];
