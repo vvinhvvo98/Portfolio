@@ -65,7 +65,7 @@
  * <br> <br>
  *  
  * <div class="image-frame" style="text-align: center;">
- * <b style="font-size: 20px;">BASKETBALL LAUNCHER</b>
+ * <b style="font-size: 20px;">ROMI TWO-WHEEL ROBOT</b>
  * 
  * <img src="romi.png" width="600" height="700" style="border: 10px solid black; border-radius: 50px;">
  * </a>
@@ -183,7 +183,7 @@
  * <br> <br>
  * 
  * <div class="image-frame" style="text-align: center;">
- * <b style="font-size: 20px;">DOOR ASSEMBLY FIXTURE<</b>
+ * <b style="font-size: 20px;">DOOR ASSEMBLY FIXTURE</b>
  * 
  * <img src="door.png" width="600" height="700" style="border: 10px solid black; border-radius: 50px;">
  * </a>
@@ -198,7 +198,7 @@
  * <br> <br>
  * 
  * <div class="image-frame" style="text-align: center;">
- * <b style="font-size: 20px;">WALL MOUNTING BRACKET<</b>
+ * <b style="font-size: 20px;">WALL MOUNTING BRACKET</b>
  * 
  * <img src="wall.png" width="600" height="700" style="border: 10px solid black; border-radius: 50px;">
  * </a>
@@ -213,7 +213,7 @@
  * <br> <br>
  * 
  * <div class="image-frame" style="text-align: center;">
- * <b style="font-size: 20px;">BUS MOUNTING BRACKET<</b>
+ * <b style="font-size: 20px;">BUS MOUNTING BRACKET</b>
  * 
  * <img src="bus.png" width="600" height="700" style="border: 10px solid black; border-radius: 50px;">
  * </a>
