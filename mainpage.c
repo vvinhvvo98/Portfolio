@@ -172,9 +172,9 @@
  * </THEAD>
  * <TBODY>
  *   <TR>
- *     <TD> - Developed a basketball launcher with 2 DOF, controlled wirelessly by a glove with an IMU sensor. <br> - Designed a custom PCB centered around a chosen MCU. <br> - Integrated limit switches and an emergency stop to address safety concerns. <br> - Implemented 3D printed cycloidal gearbox as the foundation for the launcher. </TD>
- *     <TD> - Used Fushion 360 to developed customized PCBA centered by STM32F411CEU6 MCU<br> - Used HC-05 bluetooth module to wirelessly control the launcher with IMU sensor<br> - Used SolidWorks to develop CAD model<br> - Used 2 NEMA 17 stepper motors with gearbox to control 2 DOFs of motions<br> - Used 2 D4215 BLDC motor to lauch bal. </TD>
- *     <TD> - Successfully launch the basketball 5 m away from the barrel<br> - The launcher motions is controlled according to feedback data from IMU sensor on the controller<br> - PCBA is manufatured and soldered<br> - The launcher has a robust foundation that is including the 3D printed cycloidal gearbox</TD>
+ *     <TD> - Building a Snake-like robotics arm system. <br> - Include 3 45° offset swivel joints per segment for 3 degree of freedom. <br> - Implement forward and inverse kinematics for precise movement control.<br> - Utilize MATLAB App for arm manipulation. </TD>
+ *     <TD> - Design 3D swivel joints in Solidworks with DC motor, shaft encoder, and 1:3 gear ratio. <br> - Analyze forward and inverse kinematics with DH parameters. <br> - Use MATLAB for workspace plotting and angle-based joint animation. <br> - Prevent arm damage by analyzing singularity through the Jacobian matrix. </TD>
+ *     <TD> - Arm operates effectively with implemented forward and inverse kinematics. <br> - Successfully create MATLAB App GUI for inputs kinematics parameters. <br> - Serial communication links MATLAB GUI and Arduino for arm motion control. </TD>
  *   </TR>
  * </TBODY>
  * </TABLE>
@@ -204,9 +204,9 @@
  * </THEAD>
  * <TBODY>
  *   <TR>
- *     <TD> - Developed a basketball launcher with 2 DOF, controlled wirelessly by a glove with an IMU sensor. <br> - Designed a custom PCB centered around a chosen MCU. <br> - Integrated limit switches and an emergency stop to address safety concerns. <br> - Implemented 3D printed cycloidal gearbox as the foundation for the launcher. </TD>
- *     <TD> - Used Fushion 360 to developed customized PCBA centered by STM32F411CEU6 MCU<br> - Used HC-05 bluetooth module to wirelessly control the launcher with IMU sensor<br> - Used SolidWorks to develop CAD model<br> - Used 2 NEMA 17 stepper motors with gearbox to control 2 DOFs of motions<br> - Used 2 D4215 BLDC motor to lauch bal. </TD>
- *     <TD> - Successfully launch the basketball 5 m away from the barrel<br> - The launcher motions is controlled according to feedback data from IMU sensor on the controller<br> - PCBA is manufatured and soldered<br> - The launcher has a robust foundation that is including the 3D printed cycloidal gearbox</TD>
+ *     <TD> - Design a robust cycloidal 1:10 gearbox for future projects. <br> - Easy to install to any motor input and driven output with strong connection. <br> - Components are 3D printed and purchased as needed. </TD>
+ *     <TD> - Ultilize MATLAB for developingg a tool for desired cycloidal disk profile as well as critical dimentions of the design.<br> - Running MATLAB animation to make sure no interference between components. <br> - Using Solidworks to design the gearbox and implement dimensions from MATLAB script's. </TD>
+ *     <TD> - Gearbox is built by 3D printed PLA with 1:10 gear ratio. <br> - Gearbox is driven by NEMA Stepper Motor. </TD>
  *   </TR>
  * </TBODY>
  * </TABLE>
