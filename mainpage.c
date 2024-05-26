@@ -51,9 +51,6 @@
  * </div>
  * 
  * <div style="display: flex; justify-content: center; gap: 20px;">
- *   <a href="">
- *     <img src="objective.png" alt="First Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
- *   </a>
  *   <a href="https://vvinhvvo98.github.io/Basketball-Launcher/index.html">
  *     <img src="link.png" alt="Second Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
  *   </a>
@@ -61,6 +58,23 @@
  *     <img src="youtube.png" alt="Third Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
  *   </a>
  * </div>
+ * 
+ * <TABLE>
+ * <THEAD>
+ *   <TR>
+ *     <TH>Ojective</TH>
+ *     <TH>Technical Detail</TH>
+ *     <TH>Result</TH>
+ *   </TR>
+ * </THEAD>
+ * <TBODY>
+ *   <TR>
+ *     <TD> - Developed a basketball launcher with 2 DOF, controlled wirelessly by a glove with an IMU sensor. <br> - Designed a custom PCB centered around a chosen MCU. <br> - Integrated limit switches and an emergency stop to address safety concerns. <br> - Implemented 3D printed cycloidal gearbox as the foundation for the launcher. </TD>
+ *     <TD> - Used Fushion 360 to developed customized PCBA centered by STM32F411CEU6 MCU<br> - Used HC-05 bluetooth module to wirelessly control the launcher with IMU sensor<br> - Used SolidWorks to develop CAD model<br> - Used 2 NEMA 17 stepper motors with gearbox to control 2 DOFs of motions<br> - Used 2 D4215 BLDC motor to lauch bal. </TD>
+ *     <TD> - Successfully launch the basketball 5 m away from the barrel<br> - The launcher motions is controlled according to feedback data from IMU sensor on the controller<br> - PCBA is manufatured and soldered<br> - The launcher has a robust foundation that is including the 3D printed cycloidal gearbox</TD>
+ *   </TR>
+ * </TBODY>
+ * </TABLE>
  * 
  * <br> <br>
  *  
@@ -72,9 +86,6 @@
  * </div>
  * 
  * <div style="display: flex; justify-content: center; gap: 20px;">
- *   <a href="">
- *     <img src="objective.png" alt="First Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
- *   </a>
  *   <a href="https://vvinhvvo98.github.io/ROMI-Two-Wheels-Robot/index.html">
  *     <img src="link.png" alt="Second Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
  *   </a>
@@ -82,6 +93,24 @@
  *     <img src="youtube.png" alt="Third Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
  *   </a>
  * </div>
+ * 
+ * <TABLE>
+ * <THEAD>
+ *   <TR>
+ *     <TH>Ojective</TH>
+ *     <TH>Technical Detail</TH>
+ *     <TH>Result</TH>
+ *   </TR>
+ * </THEAD>
+ * <TBODY>
+ *   <TR>
+ *     <TD> - Integrated ROMI kit with Nucleo STM32 Microcontroller <br> -Be able to detect curve, cross, dash and 90° turn line pattern <br> -Be able to avoid a wall obstacle on the way<br> -Be able to return exact Home location<br> -Complete the challenge as fast as it can for competition. </TD>
+ *     <TD> - Integrate PID controller for 2 wheels that can drive at desire speed <br> - Integrate PID controller to analog line sensor to smoothly follow different line curve<br> - Integrate IMU sensor that will read the and remember the yaw angle and XY coordinate<br> - Integrate DC servo and Ultrasonic sensor to detect wall obstacle along the path. </TD>
+ *     <TD> - The robot is able to:<br> - Follow any combination of curve, cross, dash, and straight line<br> - Avoid wall with any wall size<br> - Return to Home position within ±5 mm<br> - Finish the whole challenge in 32 second
+</TD>
+ *   </TR>
+ * </TBODY>
+ * </TABLE>
  * 
  * <br> <br>
  * 
@@ -93,9 +122,6 @@
  * </div>
  * 
  * <div style="display: flex; justify-content: center; gap: 20px;">
- *   <a href="">
- *     <img src="objective.png" alt="First Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
- *   </a>
  *   <a href="https://vvinhvvo98.github.io/Card-Dealer-Robot/index.html">
  *     <img src="link.png" alt="Second Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
  *   </a>
@@ -103,6 +129,23 @@
  *     <img src="youtube.png" alt="Third Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
  *   </a>
  * </div>
+ * 
+ * <TABLE>
+ * <THEAD>
+ *   <TR>
+ *     <TH>Ojective</TH>
+ *     <TH>Technical Detail</TH>
+ *     <TH>Result</TH>
+ *   </TR>
+ * </THEAD>
+ * <TBODY>
+ *   <TR>
+ *     <TD> - Develop an accurate and programmable dealer robot.<br> - Enable automated card dealing for various games.<br> - Enhance gaming experience through precision, speed, and customization.</TD>
+ *     <TD> - Create an internal gear and pinion mechanism with a precision stepper motor for controlled spinning. <br> - Design a customized PCB for an enhanced aesthetic appeal. <br> - Craft a coded script to offer game flexibility and choice.</TD>
+ *     <TD> - The robot handles variable player and card combinations effortlessly. <br> - Achieves a spinning speed of 100 rpm. <br> - Features built-in games such as Big 2, Blackjack, Baccarat, and Poker.</TD>
+ *   </TR>
+ * </TBODY>
+ * </TABLE>
  * 
  * <br> <br>
  * 
@@ -114,13 +157,27 @@
  * </div>
  *
  * <div style="display: flex; justify-content: center; gap: 20px;">
- *   <a href="">
- *     <img src="objective.png" alt="First Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
- *   </a>
  *   <a href="https://www.youtube.com/playlist?list=PLlT9z-PWNXdOYJSFjVa3emhBHUZVUPtFF">
  *     <img src="youtube.png" alt="Third Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
  *   </a>
  * </div>
+ * 
+ * <TABLE>
+ * <THEAD>
+ *   <TR>
+ *     <TH>Ojective</TH>
+ *     <TH>Technical Detail</TH>
+ *     <TH>Result</TH>
+ *   </TR>
+ * </THEAD>
+ * <TBODY>
+ *   <TR>
+ *     <TD> - Developed a basketball launcher with 2 DOF, controlled wirelessly by a glove with an IMU sensor. <br> - Designed a custom PCB centered around a chosen MCU. <br> - Integrated limit switches and an emergency stop to address safety concerns. <br> - Implemented 3D printed cycloidal gearbox as the foundation for the launcher. </TD>
+ *     <TD> - Used Fushion 360 to developed customized PCBA centered by STM32F411CEU6 MCU<br> - Used HC-05 bluetooth module to wirelessly control the launcher with IMU sensor<br> - Used SolidWorks to develop CAD model<br> - Used 2 NEMA 17 stepper motors with gearbox to control 2 DOFs of motions<br> - Used 2 D4215 BLDC motor to lauch bal. </TD>
+ *     <TD> - Successfully launch the basketball 5 m away from the barrel<br> - The launcher motions is controlled according to feedback data from IMU sensor on the controller<br> - PCBA is manufatured and soldered<br> - The launcher has a robust foundation that is including the 3D printed cycloidal gearbox</TD>
+ *   </TR>
+ * </TBODY>
+ * </TABLE>
  * 
  * <br> <br>
  * 
@@ -132,13 +189,27 @@
  * </div>
  * 
  * <div style="display: flex; justify-content: center; gap: 20px;">
- *   <a href="">
- *     <img src="objective.png" alt="First Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
- *   </a>
  *   <a href="https://www.youtube.com/playlist?list=PLlT9z-PWNXdMvf3wya2C2y9n_Qta7UkEB">
  *     <img src="youtube.png" alt="Third Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
  *   </a>
  * </div>
+ * 
+ * <TABLE>
+ * <THEAD>
+ *   <TR>
+ *     <TH>Ojective</TH>
+ *     <TH>Technical Detail</TH>
+ *     <TH>Result</TH>
+ *   </TR>
+ * </THEAD>
+ * <TBODY>
+ *   <TR>
+ *     <TD> - Developed a basketball launcher with 2 DOF, controlled wirelessly by a glove with an IMU sensor. <br> - Designed a custom PCB centered around a chosen MCU. <br> - Integrated limit switches and an emergency stop to address safety concerns. <br> - Implemented 3D printed cycloidal gearbox as the foundation for the launcher. </TD>
+ *     <TD> - Used Fushion 360 to developed customized PCBA centered by STM32F411CEU6 MCU<br> - Used HC-05 bluetooth module to wirelessly control the launcher with IMU sensor<br> - Used SolidWorks to develop CAD model<br> - Used 2 NEMA 17 stepper motors with gearbox to control 2 DOFs of motions<br> - Used 2 D4215 BLDC motor to lauch bal. </TD>
+ *     <TD> - Successfully launch the basketball 5 m away from the barrel<br> - The launcher motions is controlled according to feedback data from IMU sensor on the controller<br> - PCBA is manufatured and soldered<br> - The launcher has a robust foundation that is including the 3D printed cycloidal gearbox</TD>
+ *   </TR>
+ * </TBODY>
+ * </TABLE>
  * 
  * <br> <br>
  * 
@@ -152,9 +223,6 @@
  * </div>
  * 
  * <div style="display: flex; justify-content: center; gap: 20px;">
- *   <a href="">
- *     <img src="objective.png" alt="First Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
- *   </a>
  *  <a href="W15.pdf">
  *     <img src="pdf.png" alt="First Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
  *   </a>
@@ -162,6 +230,23 @@
  *     <img src="youtube.png" alt="Third Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
  *   </a>
  * </div>
+ * 
+ * <TABLE>
+ * <THEAD>
+ *   <TR>
+ *     <TH>Ojective</TH>
+ *     <TH>Technical Detail</TH>
+ *     <TH>Result</TH>
+ *   </TR>
+ * </THEAD>
+ * <TBODY>
+ *   <TR>
+ *     <TD> - Create a light-up, musical path that is interactive for a themed Christmas event <br> - Capable of supporting children and adults (up to 300 lbf)<br> - Manufacture 25 tiles play Jingle Bells <br> - Programmable LED lights and sounds </TD>
+ *     <TD> - White HDPE on top for light diffusion.<br> - Using 8 UHMW rods for supporting weight.<br> - Aluminum 90° angle frame.<br> - Limit switches activated.<br> - Raspberry Pi Pico microcontroller with UART communication bewteen tiles. </TD>
+ *     <TD> - Manufatured 25 tiles that can play 25 different notes (Jingle Bells) for Christmast.<br> - The tile can witstand more than 300 lbs of force without buckling.<br> - Including a GUI software that can program all 25 tiles with different colors and songs. </TD>
+ *   </TR>
+ * </TBODY>
+ * </TABLE>
  * 
  * <br> <br>
  * 
@@ -174,11 +259,22 @@
  * </a>
  * </div>
  * 
- * <div style="display: flex; justify-content: center; gap: 20px;">
- *   <a href="">
- *     <img src="objective.png" alt="First Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
- *   </a>
- * </div>
+ * <TABLE>
+ * <THEAD>
+ *   <TR>
+ *     <TH>Ojective</TH>
+ *     <TH>Technical Detail</TH>
+ *     <TH>Result</TH>
+ *   </TR>
+ * </THEAD>
+ * <TBODY>
+ *   <TR>
+ *     <TD> - GX module sub-assembly needs 3 press-fit operations for ball bearings and worm gear.<br> - Design press fixture to replace manual press with Schmidt Electric Press for efficiency.<br> - Conduct IOPQ assessment to gauge quality of new SOP implementation. </TD>
+ *     <TD> - Use SolidWorks for press fixture design. <br> - Apply Tolerance Analysis and GD&T techniques to enhance pressing quality. <br> - Incorporate a .04 inches inspection gauge for convenient validation. </TD>
+ *     <TD> - Achieve 100% passing rate within subassembly's specs.<br> - Eliminated the need for over 4kN hand-press for operators.<br> - Cut operation time to 30% compare to prior SOP.<br> - IOPQ and SOP developed. </TD>
+ *   </TR>
+ * </TBODY>
+ * </TABLE>
  * 
  * <br> <br>
  * 
@@ -189,11 +285,22 @@
  * </a>
  * </div>
  * 
- * <div style="display: flex; justify-content: center; gap: 20px;">
- *   <a href="">
- *     <img src="objective.png" alt="First Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
- *   </a>
- * </div>
+ * <TABLE>
+ * <THEAD>
+ *   <TR>
+ *     <TH>Ojective</TH>
+ *     <TH>Technical Detail</TH>
+ *     <TH>Result</TH>
+ *   </TR>
+ * </THEAD>
+ * <TBODY>
+ *   <TR>
+ *     <TD> - Revise Assembly GX's Door fixture for new generation. <br> - Guarantee Door quality and consistency. <br> - Prevent ball bearing and spring dislodgement. <br> - Prevent operators to damage assembly's components. </TD>
+ *     <TD> - Revise assembly fixture using SolidWorks including a Calibration Tool to ensure the right assemble distance so that protect ball bearing and spring from being damaged. </TD>
+ *     <TD> - GX's Door Fixture is revised with new feature to improve safety and prevent potential failure to the assembly. </TD>
+ *   </TR>
+ * </TBODY>
+ * </TABLE>
  * 
  * <br> <br>
  * 
@@ -204,11 +311,22 @@
  * </a>
  * </div>
  * 
- * <div style="display: flex; justify-content: center; gap: 20px;">
- *   <a href="">
- *     <img src="objective.png" alt="First Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
- *   </a>
- * </div>
+ * <TABLE>
+ * <THEAD>
+ *   <TR>
+ *     <TH>Ojective</TH>
+ *     <TH>Technical Detail</TH>
+ *     <TH>Result</TH>
+ *   </TR>
+ * </THEAD>
+ * <TBODY>
+ *   <TR>
+ *     <TD> - Developed Secure and User-Friendly Wall Mount Bracket for Talia™: People Aware Sensor <br> - Featured with a 55° angle; easily detachable and capable of withstanding 1-hour random abusive vibration test. </TD>
+ *     <TD> - Used SolidWorks to develop the bracket. <br> - Ensured the bracket was designed for the injection molding process. <br>- Included a rotating slot locking mechanism. </TD>
+ *     <TD> - The design was able to withstand more than 1 hours inside vibration testing chamber without any external fastener between device and its bracket. </TD>
+ *   </TR>
+ * </TBODY>
+ * </TABLE>
  * 
  * <br> <br>
  * 
@@ -219,11 +337,22 @@
  * </a>
  * </div>
  * 
- * <div style="display: flex; justify-content: center; gap: 20px;">
- *   <a href="">
- *     <img src="objective.png" alt="First Picture" style="width: 150px; height: 150px; border: 10px solid black; border-radius: 50px;">
- *   </a>
- * </div>
+ * <TABLE>
+ * <THEAD>
+ *   <TR>
+ *     <TH>Ojective</TH>
+ *     <TH>Technical Detail</TH>
+ *     <TH>Result</TH>
+ *   </TR>
+ * </THEAD>
+ * <TBODY>
+ *   <TR>
+ *     <TD> - Design a robust bracket for Talia™: People Aware Sensor, optimized for secure bus installation <br> - The bracket with a 55° angle that is both detachable and sturdy enough to withstand a 12-hour random abusive vibration test </TD>
+ *     <TD> - Used SolidWorks' Sheet Metal Design for the bracket's development <br> - Incorporated a rotating slot for device placement and a U-bracket for external security </TD>
+ *     <TD> - The design was able to withstand more than 12 hours inside vibration testing chamber.</TD>
+ *   </TR>
+ * </TBODY>
+ * </TABLE>
  * 
  * <br> <br>
  */
